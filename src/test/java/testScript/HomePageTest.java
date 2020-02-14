@@ -11,14 +11,17 @@ public class HomePageTest {
 	BasePage bp;
 	HomePageObjects hp;
 	
-	public HomePageTest9879()
+	
+
+	public HomePageTest6789()
+
 	{
 	bp = new BasePage();
 	hp = new HomePageObjects();
 	}
 
 	@Test
-	public void verifyWomenTab()
+	public void verifyWomenTab123()
 	{
 		Assert.assertTrue(bp.elementFound(hp.getWomenTab()), "Element not found");
 	}
