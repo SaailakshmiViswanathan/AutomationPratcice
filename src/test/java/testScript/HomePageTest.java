@@ -11,7 +11,7 @@ public class HomePageTest {
 	BasePage bp;
 	HomePageObjects hp;
 	
-	public HomePageTest()
+	public HomePageTest9879()
 	{
 	bp = new BasePage();
 	hp = new HomePageObjects();
